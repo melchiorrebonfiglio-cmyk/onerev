@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Project Tracker ONE DELIVERY_REV 1 ",
+  "description": "An application to manage projects and track the progress of their activities. Each project is identified by a CRQ number and has a predefined set of steps to complete.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
